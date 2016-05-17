@@ -1,6 +1,4 @@
-/**
- * Created by chen on 16/3/29.
- */
+
 //加载依赖库
 var express = require('express');
 var path = require('path');
